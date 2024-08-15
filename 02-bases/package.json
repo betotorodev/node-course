@@ -1,0 +1,14 @@
+{
+  "name": "02-bases",
+  "version": "0.0.1",
+  "description": "A node course form DevTalles",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "node --watch index.js"
+  },
+  "keywords": [],
+  "author": "Beto Toro",
+  "license": "ISC"
+}
